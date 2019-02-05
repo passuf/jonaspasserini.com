@@ -1,0 +1,4 @@
+baseURL = "https://jonaspasserini.com"
+languageCode = "en-us"
+title = "Jonas Passerini"
+theme = "hugo-paper"
