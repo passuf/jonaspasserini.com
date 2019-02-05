@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Jonas Passerini</title>
+    <link>/articles/</link>
+    <description>Recent content in Articles on Jonas Passerini</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Feb 2019 18:33:44 +0100</lastBuildDate>
+    
+	<atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>/articles/hello-world/</link>
+      <pubDate>Tue, 05 Feb 2019 18:26:24 +0100</pubDate>
+      
+      <guid>/articles/hello-world/</guid>
+      <description>Welcome This is my first post with Hugo. Live reload rocks!</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>/articles/another-post/</link>
+      <pubDate>Tue, 05 Feb 2019 18:26:24 +0100</pubDate>
+      
+      <guid>/articles/another-post/</guid>
+      <description>Erat est concubitus nudata in nec est Lorem markdownum notis cumque erat, mersis fuit tecta nostra parte mihi trahit supplex. Edidit per vocant testes? Et est ipsae nec vero me optare et elimat, decent et refert.
+ Altum serasque coniugis nulla me adficit Tum nisi ambiguis Ille ait ante Funera ille frustra nec scire litora avido Quamquam faciet te atque nefandos Discutit iamdudum vellet dici ora receptae ista  Et omnia cupioque volat et esse ponunt Prodamne scire cupidine, dies dum fertur vimque dominum iuvenisque queritur dira quodcumque pondere flevit me heros est suprema.</description>
+    </item>
+    
+  </channel>
+</rss>

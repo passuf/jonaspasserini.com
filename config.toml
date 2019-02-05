@@ -1,4 +1,5 @@
-baseURL = "https://jonaspasserini.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "Jonas Passerini"
 theme = "hugo-paper"
+publishDir = "docs"

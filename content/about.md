@@ -1,6 +1,5 @@
 ---
 title: "About"
-draft: true
 menu: "main"
 weight: 1
 ---
