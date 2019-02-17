@@ -6,7 +6,6 @@
     <description>Recent content on Jonas Passerini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 18:26:24 +0100</lastBuildDate>
     
 	<atom:link href="https://passuf.github.io/jonaspasserini.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,12 +16,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://passuf.github.io/jonaspasserini.com/about/</guid>
-      <description>Example Page puts &amp;quot;Hello&amp;quot;  And here a bit of inline code: cat test.txt
- List 1 List 2   first second  Nothing?
-a)
-test
-cursive
-link</description>
+      <description>I studied computer science at ETH Zurich and specialised in information security during my master studies.
+Currently, I work as a Junior Security Engineer at Futurae, an ETH Spin-off where we build secure and usable two-factor authentication. At SIB I teach the IT-Security course for their Chief Digital Officer postgraduate studies.
+Before, I worked as a Web Engineer at UniversitätsSpital Zürich and ABZ, and was the webmaster for bauenschweiz.
+I love to play the clarinet, swim in the Zürichsee, read books or play Dungeons &amp;amp; Dragons with friends.</description>
     </item>
     
     <item>
@@ -31,12 +28,10 @@ link</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://passuf.github.io/jonaspasserini.com/projects/</guid>
-      <description>Example Page puts &amp;quot;Hello&amp;quot;  And here a bit of inline code: cat test.txt
- List 1 List 2   first second  Nothing?
-a)
-test
-cursive
-link</description>
+      <description>WunderHabit A simple web application to connect your To-Do list from Wunderlist with Habitica.
+ Website: wunderhabit.passuf.ch Source: github.com/passuf/WunderHabit  Browser Fingerprint Research project to demonstrate how much data a browser reveals by just visiting a website.
+ Demo: passuf.github.io/browser-fingerprint Source: github.com/passuf/browser-fingerprint  Black Hole Service to collect arbitrary HTTP requests to see what your HTTP client is sending, e.g. when debugging webhooks.
+ Source: github.com/passuf/blackhole  FlatDist Finding the optimal place for your new flat can be a pain, so I wrote a small website to calculate distances from any address (your potential new home?</description>
     </item>
     
     <item>
@@ -45,31 +40,7 @@ link</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://passuf.github.io/jonaspasserini.com/contact/</guid>
-      <description>Example Page puts &amp;quot;Hello&amp;quot;  And here a bit of inline code: cat test.txt
- List 1 List 2   first second  Nothing?
-a)
-test
-cursive
-link</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://passuf.github.io/jonaspasserini.com/articles/hello-world/</link>
-      <pubDate>Tue, 05 Feb 2019 18:26:24 +0100</pubDate>
-      
-      <guid>https://passuf.github.io/jonaspasserini.com/articles/hello-world/</guid>
-      <description>Welcome This is my first post with Hugo. Live reload rocks!</description>
-    </item>
-    
-    <item>
-      <title>Second Post</title>
-      <link>https://passuf.github.io/jonaspasserini.com/articles/another-post/</link>
-      <pubDate>Tue, 05 Feb 2019 18:26:24 +0100</pubDate>
-      
-      <guid>https://passuf.github.io/jonaspasserini.com/articles/another-post/</guid>
-      <description>Erat est concubitus nudata in nec est Lorem markdownum notis cumque erat, mersis fuit tecta nostra parte mihi trahit supplex. Edidit per vocant testes? Et est ipsae nec vero me optare et elimat, decent et refert.
- Altum serasque coniugis nulla me adficit Tum nisi ambiguis Ille ait ante Funera ille frustra nec scire litora avido Quamquam faciet te atque nefandos Discutit iamdudum vellet dici ora receptae ista  Et omnia cupioque volat et esse ponunt Prodamne scire cupidine, dies dum fertur vimque dominum iuvenisque queritur dira quodcumque pondere flevit me heros est suprema.</description>
+      <description>The best way to reach me is to send an email to j&amp;#111;nasp&amp;#97;&amp;#115;serini&amp;#64;&amp;#103;&amp;#109;ail&amp;#46;co&amp;#109;, or you can also find me on Twitter, GitHub, GitLab or LinkedIn.</description>
     </item>
     
   </channel>

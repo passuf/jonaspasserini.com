@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "Jonas Passerini"
 theme = "hugo-paper"
 publishDir = "docs"
+canonifyurls = true

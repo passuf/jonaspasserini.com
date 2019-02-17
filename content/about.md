@@ -4,25 +4,11 @@ menu: "main"
 weight: 1
 ---
 
-## Example Page
-```ruby
-puts "Hello"
-```
+I studied computer science at [ETH Zurich](https://www.ethz.ch) and specialised in information security during my master studies.
 
-And here a bit of inline code: `cat test.txt`
+Currently, I work as a Junior Security Engineer at [Futurae](https://futurae.com), an ETH Spin-off where we build secure and usable two-factor authentication. 
+At [SIB](https://www.sib.ch/) I teach the IT-Security course for their Chief Digital Officer postgraduate studies.
 
-- List 1
-- List 2
+Before, I worked as a Web Engineer at [UniversitätsSpital Zürich](http://www.usz.ch) and [ABZ](http://www.abz.inf.ethz.ch/), and was the webmaster for [bauenschweiz](https://www.bauenschweiz.ch).
 
-1. first
-2. second
-
-Nothing?
-
-a)
-
-**test**
-
-*cursive*
-
-[link](github.com)
+I love to play the clarinet, swim in the Zürichsee, read books or play Dungeons & Dragons with friends.
