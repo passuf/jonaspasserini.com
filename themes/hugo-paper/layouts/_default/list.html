@@ -23,7 +23,10 @@
   </header>
   <p class="post-summary">{{ .Summary | plainify | htmlUnescape }}...</p>
   <footer class="post-footer">
-    <p class="post-meta">{{ .Date.Format "2006-01-02" }}</p>
+    <p class="post-meta">
+      {{- if .Params.date }}
+      {{- .Date.Format "2006-01-02" -}} {{ end }}
+    </p>
   </footer>
   <a class="post-link" href="{{ .Permalink }}"></a>
 </article>
