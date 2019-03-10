@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonas Passerini</title>
-    <link>https://passuf.github.io/jonaspasserini.com/</link>
+    <link>https://www.jonaspasserini.com/</link>
     <description>Recent content on Jonas Passerini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://passuf.github.io/jonaspasserini.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.jonaspasserini.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://passuf.github.io/jonaspasserini.com/about/</link>
+      <link>https://www.jonaspasserini.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://passuf.github.io/jonaspasserini.com/about/</guid>
+      <guid>https://www.jonaspasserini.com/about/</guid>
       <description>I studied computer science at ETH Zurich and specialized in Information Security during my master studies.
 Currently, I work as a Junior Security Engineer at Futurae, an ETH Spin-off where we build secure and usable two-factor authentication. At SIB I teach the IT-Security lecture as part of their Chief Digital Officer postgraduate studies.
 Before, I worked as a Web Engineer at UniversitätsSpital Zürich and ABZ and was the webmaster for bauenschweiz.</description>
@@ -23,10 +23,10 @@ Before, I worked as a Web Engineer at UniversitätsSpital Zürich and ABZ and wa
     
     <item>
       <title>Projects</title>
-      <link>https://passuf.github.io/jonaspasserini.com/projects/</link>
+      <link>https://www.jonaspasserini.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://passuf.github.io/jonaspasserini.com/projects/</guid>
+      <guid>https://www.jonaspasserini.com/projects/</guid>
       <description>WunderHabit A simple web application to connect your To-Do list from Wunderlist with Habitica.
  Website: wunderhabit.passuf.ch Source: github.com/passuf/WunderHabit  Browser Fingerprint Research project to demonstrate how much data a browser reveals by just visiting a website.
  Demo: passuf.github.io/browser-fingerprint Source: github.com/passuf/browser-fingerprint  Black Hole Service to collect arbitrary HTTP requests to see what your HTTP client is sending, e.g. when debugging webhooks.
@@ -35,10 +35,10 @@ Before, I worked as a Web Engineer at UniversitätsSpital Zürich and ABZ and wa
     
     <item>
       <title>Contact</title>
-      <link>https://passuf.github.io/jonaspasserini.com/contact/</link>
+      <link>https://www.jonaspasserini.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://passuf.github.io/jonaspasserini.com/contact/</guid>
+      <guid>https://www.jonaspasserini.com/contact/</guid>
       <description>The best way to reach me is to send an email to j&amp;#111;nasp&amp;#97;&amp;#115;serini&amp;#64;&amp;#103;&amp;#109;ail&amp;#46;co&amp;#109;, or you can also find me on Twitter, GitHub, GitLab or LinkedIn.</description>
     </item>
     
