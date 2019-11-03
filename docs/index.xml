@@ -17,8 +17,8 @@
       
       <guid>https://www.jonaspasserini.com/about/</guid>
       <description>I studied computer science at ETH Zurich and specialized in Information Security during my master studies.
-Currently, I work as a Junior Security Engineer at Futurae, an ETH Spin-off where we build secure and usable two-factor authentication. At SIB I teach the IT-Security lecture as part of their Chief Digital Officer postgraduate studies.
-Before, I worked as a Web Engineer at UniversitätsSpital Zürich and ABZ and was the webmaster for bauenschweiz.</description>
+Currently, I work as a Digital Forensics Investigator. At SIB, I teach the IT-Security lecture as part of their Chief Digital Officer postgraduate studies.
+Before, I worked as a Junior Security Engineer at Futurae, an ETH Spin-off where I helped building secure and usable two-factor authentication. I also worked as a Web Engineer at UniversitätsSpital Zürich and ABZ and was the webmaster for bauenschweiz.</description>
     </item>
     
     <item>
@@ -27,10 +27,11 @@ Before, I worked as a Web Engineer at UniversitätsSpital Zürich and ABZ and wa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.jonaspasserini.com/projects/</guid>
-      <description>WunderHabit A simple web application to connect your To-Do list from Wunderlist with Habitica.
- Website: wunderhabit.passuf.ch Source: github.com/passuf/WunderHabit  Browser Fingerprint Research project to demonstrate how much data a browser reveals by just visiting a website.
- Demo: passuf.github.io/browser-fingerprint Source: github.com/passuf/browser-fingerprint  Black Hole Service to collect arbitrary HTTP requests to see what your HTTP client is sending, e.g. when debugging webhooks.
- Source: github.com/passuf/blackhole  FlatDist Finding the optimal place for your new flat can be a pain, so I wrote a small website to calculate distances from any address (your potential new home?</description>
+      <description>Black Hole Service to collect arbitrary HTTP requests to see what your HTTP client is sending, e.g. when debugging webhooks.
+ Source: github.com/passuf/blackhole  
+Browser Fingerprint Research project to demonstrate how much data a browser reveals by just visiting a website.
+ Demo: passuf.github.io/browser-fingerprint Source: github.com/passuf/browser-fingerprint  
+FlatDist Finding the optimal place for your new flat can be a pain, so I wrote a small tool to calculate distances from any address (your potential new home?</description>
     </item>
     
     <item>
@@ -39,7 +40,7 @@ Before, I worked as a Web Engineer at UniversitätsSpital Zürich and ABZ and wa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.jonaspasserini.com/contact/</guid>
-      <description>The best way to reach me is to send an email to j&amp;#111;nasp&amp;#97;&amp;#115;serini&amp;#64;&amp;#103;&amp;#109;ail&amp;#46;co&amp;#109;, or you can also find me on Twitter, GitHub, GitLab or LinkedIn.</description>
+      <description>The best way to reach me is to send an email to j&amp;#111;nasp&amp;#97;&amp;#115;serini&amp;#64;&amp;#103;&amp;#109;ail&amp;#46;co&amp;#109; or &amp;#112;&amp;#97;&amp;#115;&amp;#115;&amp;#101;&amp;#114;&amp;#105;&amp;#110;&amp;#105;&amp;#64;&amp;#112;&amp;#114;&amp;#111;&amp;#116;&amp;#111;&amp;#110;&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#46;&amp;#99;&amp;#111;&amp;#109;, and you can also find me on Twitter, GitHub, or LinkedIn.</description>
     </item>
     
   </channel>
