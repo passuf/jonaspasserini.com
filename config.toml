@@ -4,3 +4,8 @@ title = "Jonas Passerini"
 theme = "hugo-paper"
 publishDir = "docs"
 canonifyurls = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

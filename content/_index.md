@@ -3,7 +3,7 @@ layout: "index"
 type: "page"
 ---
 
-<img src="jonas.png" alt="Jonas" width="250" style="display: block; margin: auto; border-radius: 50%;">
+<img src="/jonas.png" alt="Jonas" width="250" style="display: block; margin: auto; border-radius: 50%;">
 
 Hi, my name is Jonas.
 

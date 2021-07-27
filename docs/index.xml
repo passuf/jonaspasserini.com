@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonas Passerini</title>
     <link>https://www.jonaspasserini.com/</link>
     <description>Recent content on Jonas Passerini</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.jonaspasserini.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.jonaspasserini.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://www.jonaspasserini.com/about/</link>
@@ -28,10 +24,8 @@ Before, I worked as a Junior Security Engineer at Futurae, an ETH Spin-off where
       
       <guid>https://www.jonaspasserini.com/projects/</guid>
       <description>Black Hole Service to collect arbitrary HTTP requests to see what your HTTP client is sending, e.g. when debugging webhooks.
- Source: github.com/passuf/blackhole  
-Browser Fingerprint Research project to demonstrate how much data a browser reveals by just visiting a website.
- Demo: passuf.github.io/browser-fingerprint Source: github.com/passuf/browser-fingerprint  
-FlatDist Finding the optimal place for your new flat can be a pain, so I wrote a small tool to calculate distances from any address (your potential new home?</description>
+ Source: github.com/passuf/blackhole  Browser Fingerprint Research project to demonstrate how much data a browser reveals by just visiting a website.
+ Demo: passuf.github.io/browser-fingerprint Source: github.com/passuf/browser-fingerprint  FlatDist Finding the optimal place for your new flat can be a pain, so I wrote a small tool to calculate distances from any address (your potential new home?</description>
     </item>
     
     <item>
@@ -40,7 +34,7 @@ FlatDist Finding the optimal place for your new flat can be a pain, so I wrote a
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.jonaspasserini.com/contact/</guid>
-      <description>The best way to reach me is to send an email to j&amp;#111;nasp&amp;#97;&amp;#115;serini&amp;#64;&amp;#103;&amp;#109;ail&amp;#46;co&amp;#109; or &amp;#112;&amp;#97;&amp;#115;&amp;#115;&amp;#101;&amp;#114;&amp;#105;&amp;#110;&amp;#105;&amp;#64;&amp;#112;&amp;#114;&amp;#111;&amp;#116;&amp;#111;&amp;#110;&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#46;&amp;#99;&amp;#111;&amp;#109;, and you can also find me on Twitter, GitHub, or LinkedIn.</description>
+      <description>The best way to reach me is to send an email to jonaspasserini@gmail.com or passerini@protonmail.com, and you can also find me on Twitter, GitHub, or LinkedIn.</description>
     </item>
     
   </channel>
