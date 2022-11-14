@@ -7,4 +7,4 @@ type: "page"
 
 Hi, my name is Jonas.
 
-I focus on Information Security, Digital Forensics, and Cybercrime. Currently, I work as a Digital Forensics Engineer and lecturer in IT-Security.
+I focus on Information Security and Digital Forensics. Currently, I work as a Security Engineer and lecturer in IT-Security.
